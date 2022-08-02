@@ -16,6 +16,6 @@ F.A.Q.
 1. почему виды тестирования на английском? 
   Потому что ISQTB и Learn English, plz. 
   "Санитарное" и "дымное" тестирование, "серый ящик", "модульные тесты" *puke emoji*
+2. PDF-версия [Becoming True QA-220802205326.pdf](https://github.com/5h1k4r1/Becoming-True-QA-2022/files/9244559/Becoming.True.QA-220802205326.pdf)
 
-[Becoming True QA-220802205326.pdf](https://github.com/5h1k4r1/Becoming-True-QA-2022/files/9244559/Becoming.True.QA-220802205326.pdf)
-
+![image](https://user-images.githubusercontent.com/10485691/182444821-6689313d-66a9-4cb5-9fdc-13de84797094.png)
